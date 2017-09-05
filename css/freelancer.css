@@ -448,3 +448,11 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+
+#heart{
+  color: red;
+  margin: 0 3px;
+  font-size: 24px;
+  animation: pound .35s infinite;
+}

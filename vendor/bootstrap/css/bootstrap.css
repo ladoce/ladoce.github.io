@@ -8167,6 +8167,15 @@ a.text-dark:focus, a.text-dark:hover {
   color: #868e96 !important;
 }
 
+#heart{
+  color: red;
+  margin: 0 3px;
+  font-size: 24px;
+  animation: pound .35s infinite;
+}
+
+
+
 .text-hide {
   font: 0/0 a;
   color: transparent;
